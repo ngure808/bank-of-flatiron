@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.header{
+  background-color: rgb(55, 0, 128);
+  color: beige;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family:'Times New Roman', Times, serif;
+}
