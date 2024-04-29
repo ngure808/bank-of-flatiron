@@ -45,3 +45,26 @@
   padding-bottom: 5px;
   font-family:'Times New Roman', Times, serif;
 }
+
+.table-container {
+  margin-top: 20px; /* Add some spacing above the table */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  text-align: center;
+  border-bottom: 1px solid #ddd; /* Add bottom border to table cells */
+}
+
+th {
+  background-color: #f2f2f2; /* Light gray background for table header */
+}
+
+tbody tr:hover {
+  background-color: #f5f5f5; /* Hover effect for table rows */
+}
